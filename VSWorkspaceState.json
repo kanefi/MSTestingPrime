@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PrimeService.Tests\\bin\\Debug",
+    "\\PrimeService.Tests\\bin\\Release",
+    "\\PrimeService.Tests\\TestResults",
+    "\\PrimeService\\bin",
+    "\\PrimeService\\bin\\Debug",
+    "\\PrimeService\\obj",
+    "\\PrimeService\\obj\\Release"
+  ],
+  "SelectedNode": "\\PrimeService.Tests",
+  "PreviewInSolutionExplorer": true
+}
